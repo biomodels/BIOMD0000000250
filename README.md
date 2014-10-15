@@ -1,3 +1,21 @@
+# BIOMD0000000250: Model_1
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000250.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000250.git@20140916`
+
+
+# Model Notes
 
 
 This mechanistic model describes the activation of immediate early genes such
@@ -38,4 +56,5 @@ Biology, 1020 Locust Street, Philadelphia, PA 19107, USA
 Systems Modeling, 1-7-22 Tsurumi-ku, Yokohama, 230-0045, Japan  
 (6) Dresden University of Technology, Center for Information Services and High
 Performance Computing, 01062 Dresden, Germany
+
 
